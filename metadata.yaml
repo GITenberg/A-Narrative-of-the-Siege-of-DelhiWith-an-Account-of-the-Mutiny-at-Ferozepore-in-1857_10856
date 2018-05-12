@@ -1,11 +1,16 @@
 _repo: A-Narrative-of-the-Siege-of-DelhiWith-an-Account-of-the-Mutiny-at-Ferozepore-in-1857_10856
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Griffiths, Charles John
     gutenberg_agent_id: '3721'
     url: http://www.gutenberg.org/2009/agents/3721
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10856#A-Narrative-of-the-Siege-of-DelhiWith-an-Account-of-the-Mutiny-at-Ferozepore-in-1857
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
